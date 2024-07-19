@@ -6,7 +6,8 @@ Cara menjalankan:
 
 1. Clone melalui repository gitLab ke folder local PC/Laptop pengguna
 2. Setelah selsai clone, pindah directory ke PT Aman Tekno Solusi\frontend-abi-wibisono\client
-3. Ketikan commad "npm run dev" untuk menjalankan
+3. Ketikan commad "npm i" pada directory \PT Aman Tekno Solusi\frontend-abi-wibisono\client> untuk install package yang dibutuhkan
+4. Ketikan commad "npm run dev" untuk menjalankan program
 
 Cara penggunaan:
 
